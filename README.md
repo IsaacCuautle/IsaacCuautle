@@ -1,11 +1,11 @@
-<h1 align="center">Hi I,m Isaac
-<br>Ingeneer Systems Student
+<h1 align="center">Hello I,m Isaac 👋
+<br>Ingeneer Systems Student 👨‍🎓
 </h1>
 
 
 
   
-  <h2 class="contact" align="center"> <p>Contact me!</p>
+  <h2 class="contact" align="center"> <p>Contact me! 📱</p>
   
   
   ![GMAIL](https://img.shields.io/badge/Gmail-D14836?&style=for-the-badge&logo=gmail&logoColor=white&link=mailto:cuautle.tron@gmail.com)
