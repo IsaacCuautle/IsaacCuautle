@@ -5,7 +5,7 @@
 
 <h2 align="center">
   
-<a href="cuautle.tron@gmail.com?Subject=Interesado%20en%20el%20contactar">
+<a href="mailto=cuautle.tron@gmail.com?Subject=Interesado%20en%20el%20contactar">
   
     
 ![GMAIL](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)
