@@ -8,7 +8,7 @@
   <h2 class="contact" align="center"> <p>Contact me! 📱</p>
   
   
-  ![GMAIL](https://img.shields.io/badge/Gmail-D14836?&style=for-the-badge&logo=gmail&logoColor=white&link=mailto:cuautle.tron@gmail.com)
+  ![GMAIL](https://img.shields.io/badge/Gmail-D14836?&style=for-the-badge&logo=gmail&logoColor=white&link=mailto:cuautled.isaac@gmail.com)
 <!--  ![WHATSAPP](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white&link=https://wa.me/525629736547) --> 
     
   </h2>
