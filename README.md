@@ -1,5 +1,5 @@
 <h1 align="center">Hello I'm Isaac 👋
-<br>Ingeneer Systems Student 👨‍🎓
+<br>Systems engineer 💻
 </h1>
 
 
@@ -9,7 +9,7 @@
   
   
   ![GMAIL](https://img.shields.io/badge/Gmail-D14836?&style=for-the-badge&logo=gmail&logoColor=white&link=mailto:cuautled.isaac@gmail.com)
-<!--  ![WHATSAPP](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white&link=https://wa.me/525629736547) --> 
+  ![WHATSAPP](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white&link=https://wa.me/525629736547)
     
   </h2>
 
