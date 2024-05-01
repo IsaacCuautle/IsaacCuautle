@@ -1,20 +1,27 @@
-<h1 align="center">Hello I'm Isaac 👋
-<br>Systems engineer 💻
-</h1>
+<h1>Hola 👋</h1>
+<div>
+<p></p>Soy Isaac, Ingeniero en Sistemas computacionales:</p>
 
+- Actualmente estoy trabajando 
+- Me interesa el desarrollo web del lado del servidor
+- Mis intereses son Javacript, Node, PHP  y Python
 
+</div>
 
-  
-  <h2 class="contact" align="center"> <p>Contact me! 📱</p>
-  
+<div align="center">
+
+  <h2> <p>Contactame! 📱</p></h2>
   
   ![GMAIL](https://img.shields.io/badge/Gmail-D14836?&style=for-the-badge&logo=gmail&logoColor=white&link=mailto:cuautled.isaac@gmail.com)
   ![WHATSAPP](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white&link=https://wa.me/525629736547)
   ![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white&link=https://www.linkedin.com/in/isaac-cuautled/)
     
-  </h2>
+  
+</div>
 
-<h2 align="center">
+<div align="center">
+
+  <h2> Mi viaje </h2>
   
 ![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white) 
 ![HTML](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white) 
@@ -28,17 +35,24 @@
 ![ANDROID](https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white)
 ![Firebase](https://img.shields.io/badge/firebase-%23039BE5.svg?style=for-the-badge&logo=firebase)
 ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
+![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
+![IntelliJ IDEA](https://img.shields.io/badge/IntelliJIDEA-000000.svg?style=for-the-badge&logo=intellij-idea&logoColor=white)
+![Spring](https://img.shields.io/badge/spring-%236DB33F.svg?style=for-the-badge&logo=spring&logoColor=white)
 
-</h2>
+</div>
+
+<div align="center">
+  <h2> Algunos de mis logros</h2>
+
+  <img src="https://github.com/IsaacCuautle/IsaacCuautle/assets/65583500/159135dc-63b3-4c6b-a705-5833235c8125" style="width:6em">
+  <img src="https://github.com/IsaacCuautle/IsaacCuautle/assets/65583500/285b3429-12e2-41b0-8138-b5f09c5ebcdb" style="width:6em">
+
+</div>
 
 
-<h2 align="center"> 
+<div align="center">
+  <h2> Mis estadisticas </h2>
   
-![STATS](https://github-readme-stats.vercel.app/api/top-langs/?username=IsaacCuautle&theme=blue-green)
-  
-<br>
-
-<img align="center" src="https://github-readme-stats.vercel.app/api?username=IsaacCuautle&include_all_commits=true&count_private=true&show_icons=true&line_height=20&title_color=2B5BBD&icon_color=1124BB&text_color=A1A1A1&bg_color=0,000000,130F40" alt="my Github Stats"/>
-
-</h2>
-
+<img style="align:right" src="https://github-readme-stats.vercel.app/api/top-langs?username=madushadhanushka&show_icons=true&locale=en&layout=compact&theme=chartreuse-dark" alt="ovi"/> 
+<img style="position:fixed;  height:10em;" align="left" src="https://github-readme-stats.vercel.app/api?username=IsaacCuautle&include_all_commits=true&count_private=true&show_icons=true&line_height=20&title_color=2B5BBD&icon_color=1124BB&text_color=A1A1A1&bg_color=0,000000,130F40" alt="my Github Stats"/>
+</div>
