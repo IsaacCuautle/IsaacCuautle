@@ -1,11 +1,12 @@
-<h1>Hola 👋</h1>
-<div>
-<p></p>Soy Isaac, Ingeniero en Sistemas computacionales:</p>
+<h1>Hola 👋<br>Soy Luis Isaac Cuautle</h1>
 
+<div>
+<h2 align="center">¿Algo sobre mi?</h2>
+  
 - Actualmente estoy trabajando 
 - Me interesa el desarrollo web del lado del servidor
 - Mis intereses son Javacript, Node, PHP  y Python
-
+- Estudie Ingenieria en Sistemas Computacionales
 </div>
 
 <div align="center">
@@ -43,9 +44,12 @@
 
 <div align="center">
   <h2> Algunos de mis logros</h2>
-
-  <img src="https://github.com/IsaacCuautle/IsaacCuautle/assets/65583500/159135dc-63b3-4c6b-a705-5833235c8125" style="width:6em">
+  
+  <img src="https://github.com/user-attachments/assets/789d14cb-1a8b-441b-aede-9376565df11f" style="width:6em">
+  <img src="https://github.com/user-attachments/assets/8c339043-49c9-4130-b9d5-8b5da003e335" style="width:6em">
+  <img src="https://github.com/user-attachments/assets/6b2a1eb7-03b7-4000-94a3-ce171babc449" style="width:6em">
   <img src="https://github.com/IsaacCuautle/IsaacCuautle/assets/65583500/285b3429-12e2-41b0-8138-b5f09c5ebcdb" style="width:6em">
+  
 
 </div>
 
